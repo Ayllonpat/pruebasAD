@@ -18,7 +18,6 @@ public class MainController {
 
 
     record Producto (Long id, String nombre){
-
     }
 }
 
