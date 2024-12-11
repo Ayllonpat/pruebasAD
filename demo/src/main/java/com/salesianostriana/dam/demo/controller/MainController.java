@@ -22,6 +22,6 @@ public class MainController {
         return producto;
     }
 
-    record Producto (Long id, String nombre){}
+    record Producto (Long id, String nombre){ }
 }
 
